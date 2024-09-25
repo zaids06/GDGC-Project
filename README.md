@@ -1,5 +1,22 @@
 E-Commerce Platform
 
+Live Website Link:-
+https://zaids06.github.io/GDGC-Project/
+
+
+Demo Video Link:-
+https://drive.google.com/file/d/1V9d0R1kN2QMtrua5q_-Kt3FeZHZazY2n/view
+
+Screenshots of the project:-
+
+      Home Layout
+->    ![image](https://github.com/user-attachments/assets/b932c84a-4ce9-4fcc-bf18-662ff15e7e1c)
+      Cart Layout
+->    ![image](https://github.com/user-attachments/assets/dae19a0d-dcd3-4fd0-80b8-e94f727234f1)
+      Search Bar 
+->     ![image](https://github.com/user-attachments/assets/3046916f-8a70-4df6-833b-b470cf4261a0)
+
+
 This project is a simple E-Commerce platform built using HTML, CSS, and JavaScript. It allows users to search for products, view product details, add items to their cart, and manage their cart.
 
 Table of Contents
@@ -17,14 +34,13 @@ Add products to a cart with quantity management.
 Display total price and product details in the cart.
 Remove items from the cart.
 
-Installation
+⭐Installation
 Clone the repository to your local machine:
-git clone <repository-url>
-cd e-commerce-platform
+git clone <[repository-url>](https://github.com/zaids06/GDGC-Project)>
 
 Open the project in your preferred code editor.
 
-Execution Process
+⭐Execution Process
 To run the project locally:
 
 Open the HTML file:
@@ -49,10 +65,10 @@ The total price will update dynamically based on the items in the cart.
 Checkout:
 If there are products in the cart, the "Place Order" button will be enabled, allowing you to proceed with the order.
 
-Usage:
+⭐Usage:
 This application can be modified and enhanced to include features such as user authentication, payment processing, and real-time inventory management.
 
-Technologies Used:
+⭐Technologies Used:
 HTML
 CSS
 JavaScript
